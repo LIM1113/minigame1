@@ -1,0 +1,102 @@
+{
+  "item" : [
+    {
+      "cloth" : "tshirt",
+      "color" : "blue",
+      "gender" : "male",
+      "size" : "large",
+      "link" : "imgs/blue_t.png"
+    },
+    {
+      "cloth" : "pant",
+      "color" : "blue",
+      "gender" : "male",
+      "size" : "large",
+      "link" : "imgs/blue_p.png"
+    },
+    {
+      "cloth" : "skirt",
+      "color" : "blue",
+      "gender" : "male",
+      "size" : "large",
+      "link" : "imgs/blue_s.png"
+    },
+    {
+      "cloth" : "tshirt",
+      "color" : "yellow",
+      "gender" : "male",
+      "size" : "large",
+      "link" : "imgs/yellow_t.png"
+    },
+    {
+      "cloth" : "pant",
+      "color" : "yellow",
+      "gender" : "male",
+      "size" : "large",
+      "link" : "imgs/yellow_p.png"
+    },
+    {
+      "cloth" : "skirt",
+      "color" : "yellow",
+      "gender" : "male",
+      "size" : "large",
+      "link" : "imgs/yellow_s.png"
+    },
+    {
+      "cloth" : "tshirt",
+      "color" : "blue",
+      "gender" : "male",
+      "size" : "large",
+      "link" : "imgs/blue_t.png"
+    },
+    {
+      "cloth" : "pant",
+      "color" : "blue",
+      "gender" : "male",
+      "size" : "large",
+      "link" : "imgs/blue_p.png"
+    },
+    {
+      "cloth" : "skirt",
+      "color" : "blue",
+      "gender" : "male",
+      "size" : "large",
+      "link" : "imgs/blue_s.png"
+    },
+    {
+      "cloth" : "tshirt",
+      "color" : "blue",
+      "gender" : "female",
+      "size" : "large",
+      "link" : "imgs/blue_t.png"
+    },
+    {
+      "cloth" : "pant",
+      "color" : "blue",
+      "gender" : "female",
+      "size" : "large",
+      "link" : "imgs/blue_p.png"
+    },
+    {
+      "cloth" : "skirt",
+      "color" : "blue",
+      "gender" : "female",
+      "size" : "large",
+      "link" : "imgs/blue_s.png"
+    },
+    {
+      "cloth" : "pant",
+      "color" : "pink",
+      "gender" : "female",
+      "size" : "small",
+      "link" : "imgs/pink_p.png"
+    },
+    {
+      "cloth" : "skirt",
+      "color" : "pink",
+      "gender" : "female",
+      "size" : "small",
+      "link" : "imgs/pink_s.png"
+    }
+  ]
+}
