@@ -32,7 +32,10 @@ function onButton(event, items){
 function setFilter(items){
   let logo = document.querySelector('.logo');
   let buttons = document.querySelector('.buttons');
-  logo.addEventListener('click',playItemsAll(items));
+  logo.addEventListener('click',() => playItemsAll(items));
+  function(){
+    return playItemsAll(items)
+  }
   buttons.addEventListener('click', event => onButton(event,items));
   }
 
